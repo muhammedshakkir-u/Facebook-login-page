@@ -1,0 +1,110 @@
+.header{
+    width: 100%;
+    height: 63pt;
+    background-color: #3B59A6;
+}
+body{
+    margin:0;
+    font-family: helvetica Neue,helvetica,Arial, Helvetica, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 45px;
+    float: left;
+}
+.login{
+    width:50%;
+    float: left;
+    padding-top: 2px;
+}
+.logo-text{
+    text-decoration: none;
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 73px;
+}
+.login-label{
+    color: #fff;
+    font-size: llpx;
+
+}
+.login-controls{
+    padding-top: 13px;
+    margin-left: 22px;
+}
+.forgotten{
+    color: #9cb4d8;
+    font-size: 15px;
+    text-decoration:none;
+}
+.submit-button{
+    background-color: #4267b2;
+    color: #fff;
+    height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+
+.submit-button:hover{
+     
+background: red;
+
+}
+.left-section{
+    width: 50%;
+    float: left;
+   padding-left:80px;
+    padding-top: 54px;
+
+}
+.right-section{
+    width: 43%;
+    float: left;
+}
+
+
+.main-body{
+    height: 550px;
+    width: 100%;
+    background:linear-gradient(white,#D3D8E8);
+}
+.image{
+    width: 511px;
+}
+.para{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
